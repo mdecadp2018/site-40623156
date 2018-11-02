@@ -23,6 +23,30 @@
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102103639.1" a="E"><vh>Week1</vh>
+<v t="leo.20181102103639.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102103753.1"><vh>Week2</vh>
+<v t="leo.20181102103753.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102103810.1"><vh>Week3</vh>
+<v t="leo.20181102103810.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102103816.1"><vh>Week4</vh>
+<v t="leo.20181102103816.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102103824.1"><vh>Week5</vh>
+<v t="leo.20181102103824.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102103831.1"><vh>Week6</vh>
+<v t="leo.20181102103831.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102103839.1"><vh>Week7</vh>
+<v t="leo.20181102103839.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102103848.1"><vh>Week8</vh>
+<v t="leo.20181102103848.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -132,7 +156,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 40623156 分組網誌](./../blog/index.html)
+[40623156 分組網誌](./../blog/index.html)
 
 
 </t>
@@ -325,6 +349,174 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181102103639.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103639.2">## Week 1
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102103753.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103753.2">## 40623156 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102103810.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103810.2">## 40623156 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102103816.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103816.2">## 40623156 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102103824.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103824.2">## 40623156 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102103831.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103831.2">## 40623156 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102103839.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103839.2">## 40623156 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102103848.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102103848.2">## 40623156 分組網際簡報
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+Created by [KMOLab](http://lab.kmol.info/)
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
 </t>
 </tnodes>
 </leo_file>
