@@ -21,32 +21,40 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
-<v t="leo.20181102103639.1" a="E"><vh>Week1</vh>
-<v t="leo.20181102103639.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102103753.1"><vh>Week2</vh>
-<v t="leo.20181102103753.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102112657.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181102112657.2" a="E"><vh>week1</vh>
+<v t="leo.20181102112657.3"><vh>w1-1</vh></v>
 </v>
-<v t="leo.20181102103810.1"><vh>Week3</vh>
-<v t="leo.20181102103810.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102112657.4" a="E"><vh>week1</vh>
+<v t="leo.20181102112657.5"><vh>w1-2</vh></v>
 </v>
-<v t="leo.20181102103816.1"><vh>Week4</vh>
-<v t="leo.20181102103816.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102112657.6" a="E"><vh>week1</vh>
+<v t="leo.20181102112657.7"><vh>w1-3</vh></v>
 </v>
-<v t="leo.20181102103824.1"><vh>Week5</vh>
-<v t="leo.20181102103824.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102103831.1"><vh>Week6</vh>
-<v t="leo.20181102103831.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102104609.1" a="E"><vh>week2</vh>
+<v t="leo.20181102104609.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102103839.1"><vh>Week7</vh>
-<v t="leo.20181102103839.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102104856.1"><vh>week3</vh>
+<v t="leo.20181102104856.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102103848.1"><vh>Week8</vh>
-<v t="leo.20181102103848.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102104914.1" a="E"><vh>week4</vh>
+<v t="leo.20181102104914.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181102104916.1"><vh>week5</vh>
+<v t="leo.20181102104916.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102104918.1" a="E"><vh>week6</vh>
+<v t="leo.20181102104918.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102104920.1" a="E"><vh>week7</vh>
+<v t="leo.20181102104920.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181102104925.1" a="E"><vh>week8</vh>
+<v t="leo.20181102104925.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -350,7 +358,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181102103639.1">&lt;section data-markdown&gt;
+<t tx="leo.20181102104609.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -359,7 +367,28 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181102103639.2">## Week 1
+<t tx="leo.20181102104609.2"># week 2
+
+### 虎科大機械設計工程系
+
+&lt;small&gt;
+
+&lt;/small&gt;
+
+[40623156 分組網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20181102104856.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181102104856.2"># week 3
 
 ### 虎科大機械設計工程系
 
@@ -371,7 +400,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20181102103753.1">&lt;section data-markdown&gt;
+<t tx="leo.20181102104914.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -380,7 +409,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102103753.2">## 40623156 分組網際簡報
+<t tx="leo.20181102104914.2"># week 4
 
 ### 虎科大機械設計工程系
 
@@ -392,7 +421,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20181102103810.1">&lt;section data-markdown&gt;
+<t tx="leo.20181102104916.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -401,7 +430,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102103810.2">## 40623156 分組網際簡報
+<t tx="leo.20181102104916.2"># week 5
 
 ### 虎科大機械設計工程系
 
@@ -413,7 +442,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20181102103816.1">&lt;section data-markdown&gt;
+<t tx="leo.20181102104918.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -422,7 +451,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102103816.2">## 40623156 分組網際簡報
+<t tx="leo.20181102104918.2"># week 6
 
 ### 虎科大機械設計工程系
 
@@ -434,7 +463,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20181102103824.1">&lt;section data-markdown&gt;
+<t tx="leo.20181102104920.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -443,7 +472,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102103824.2">## 40623156 分組網際簡報
+<t tx="leo.20181102104920.2"># week 7
 
 ### 虎科大機械設計工程系
 
@@ -455,7 +484,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20181102103831.1">&lt;section data-markdown&gt;
+<t tx="leo.20181102104925.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -464,7 +493,7 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102103831.2">## 40623156 分組網際簡報
+<t tx="leo.20181102104925.2"># week 8
 
 ### 虎科大機械設計工程系
 
@@ -476,7 +505,45 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 
 </t>
-<t tx="leo.20181102103839.1">&lt;section data-markdown&gt;
+<t tx="leo.20181102112657.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181102112657.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102112657.3"># week 1
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181102112657.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181102112657.5"># week 1-2
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xRGnTeXiXeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181102112657.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -485,38 +552,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102103839.2">## 40623156 分組網際簡報
+<t tx="leo.20181102112657.7"># week 1-3
 
 ### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20181102103848.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102103848.2">## 40623156 分組網際簡報
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OVkeoYGrrHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 </tnodes>
 </leo_file>
