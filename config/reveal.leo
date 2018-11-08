@@ -532,7 +532,7 @@ make.start()
 <t tx="leo.20181108180533.3"># week 4
 
 ### 虎科大機械設計工程系
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1233" height="545" src="https://www.youtube.com/embed/ymQqwPrsjh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -669,7 +669,7 @@ make.start()
 <t tx="leo.20181108180937.2"># 心得
 
 ### 虎科大機械設計工程系
-學到了很多印象中電腦輔助設計學不到的東西，第一周上課時對Github完全無法理解，在這周反覆問了很多次才了解Github到底是什麼。在Onshape經過多次的摸索雖然Onshape在畫複雜形狀時不像Soildwork ,Catia或Inventor有很大的靈活運用間，不過在選擇功能的部分單純很多。
+之前覺得Onshape功能太少，但畢竟「沒有萬能的軟體，只有適合的軟體」在看完機件組立的教學後覺得跟Soildwork比起來真的方便很多，可以很容易的就做到各個零件之間的拘束，目前給我的感覺做曲面的外型設計可能較吃虧，但在機構的設計上方便性真的不輸其他軟體，對於像我們學設計的初學者來說能輕易掌握。
 
 </t>
 <t tx="leo.20181108180946.1">&lt;section data-markdown&gt;
