@@ -24,37 +24,75 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102112657.1" a="E"><vh>各式內容引用範例</vh>
-<v t="leo.20181102112657.2" a="E"><vh>week1</vh>
-<v t="leo.20181102112657.3"><vh>w1-1</vh></v>
+<v t="leo.20181108180505.1"><vh>w1</vh>
+<v t="leo.20181108180505.2"><vh>week1</vh>
+<v t="leo.20181108180505.3"><vh>w1-1</vh></v>
 </v>
-<v t="leo.20181102112657.4" a="E"><vh>week1</vh>
-<v t="leo.20181102112657.5"><vh>w1-2</vh></v>
+<v t="leo.20181108180505.4"><vh>week1</vh>
+<v t="leo.20181108180505.5"><vh>w1-2</vh></v>
 </v>
-<v t="leo.20181102112657.6" a="E"><vh>week1</vh>
-<v t="leo.20181102112657.7"><vh>w1-3</vh></v>
+<v t="leo.20181108180505.6"><vh>week1</vh>
+<v t="leo.20181108180505.7"><vh>w1-3</vh></v>
+</v>
+<v t="leo.20181108180614.1"><vh>心得</vh>
+<v t="leo.20181108180614.2"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20181102104609.1" a="E"><vh>week2</vh>
-<v t="leo.20181102104609.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102112657.1" a="E"><vh>w2</vh>
+<v t="leo.20181102112657.2" a="E"><vh>week2</vh>
+<v t="leo.20181102112657.3"><vh>w2-1</vh></v>
 </v>
-<v t="leo.20181102104856.1"><vh>week3</vh>
-<v t="leo.20181102104856.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181102112657.4" a="E"><vh>心得</vh>
+<v t="leo.20181102112657.5"><vh>心得</vh></v>
 </v>
-<v t="leo.20181102104914.1" a="E"><vh>week4</vh>
-<v t="leo.20181102104914.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102104916.1"><vh>week5</vh>
-<v t="leo.20181102104916.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181108180521.1" a="E"><vh>w3</vh>
+<v t="leo.20181108180521.2" a="E"><vh>week3</vh>
+<v t="leo.20181108180521.3"><vh>w3-1</vh></v>
 </v>
-<v t="leo.20181102104918.1" a="E"><vh>week6</vh>
-<v t="leo.20181102104918.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181108180918.1" a="E"><vh>心得</vh>
+<v t="leo.20181108180918.2"><vh>心得</vh></v>
 </v>
-<v t="leo.20181102104920.1" a="E"><vh>week7</vh>
-<v t="leo.20181102104920.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181102104925.1" a="E"><vh>week8</vh>
-<v t="leo.20181102104925.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20181108180533.1" a="E"><vh>w4</vh>
+<v t="leo.20181108180533.2" a="E"><vh>week4</vh>
+<v t="leo.20181108180533.3"><vh>w4-1</vh></v>
+</v>
+<v t="leo.20181108180937.1" a="E"><vh>心得</vh>
+<v t="leo.20181108180937.2"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20181108180537.1" a="E"><vh>w5</vh>
+<v t="leo.20181108180537.6" a="E"><vh>week5</vh>
+<v t="leo.20181108180537.7"><vh>w5-1</vh></v>
+</v>
+<v t="leo.20181108180946.1" a="E"><vh>心得</vh>
+<v t="leo.20181108180946.2"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20181108180542.1" a="E"><vh>w6</vh>
+<v t="leo.20181108180542.2" a="E"><vh>week1</vh>
+<v t="leo.20181108180542.3"><vh>w6-1</vh></v>
+</v>
+<v t="leo.20181108180951.1" a="E"><vh>心得</vh>
+<v t="leo.20181108180951.2"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20181108180553.1" a="E"><vh>w7</vh>
+<v t="leo.20181108180553.2" a="E"><vh>week7</vh>
+<v t="leo.20181108180553.3"><vh>w7-1</vh></v>
+</v>
+<v t="leo.20181108180956.1" a="E"><vh>心得</vh>
+<v t="leo.20181108180956.2"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20181108180559.1" a="E"><vh>w8</vh>
+<v t="leo.20181108180559.2" a="E"><vh>week8</vh>
+<v t="leo.20181108180559.3"><vh>w8-1</vh></v>
+</v>
+<v t="leo.20181108180959.1" a="E"><vh>心得</vh>
+<v t="leo.20181108180959.2"><vh>心得</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -358,153 +396,6 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181102104609.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102104609.2"># week 2
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20181102104856.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102104856.2"># week 3
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20181102104914.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102104914.2"># week 4
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20181102104916.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102104916.2"># week 5
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20181102104918.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102104918.2"># week 6
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20181102104920.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102104920.2"># week 7
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
-<t tx="leo.20181102104925.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181102104925.2"># week 8
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[40623156 分組網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20181102112657.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -521,10 +412,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102112657.3"># week 1
+<t tx="leo.20181102112657.3"># week 2
 
 ### 虎科大機械設計工程系
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/lTfoCNKo60w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -539,11 +430,53 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102112657.5"># week 1-2
+<t tx="leo.20181102112657.5"># 心得
 
 ### 虎科大機械設計工程系
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xRGnTeXiXeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181102112657.6">&lt;section data-markdown&gt;
+學到了很多印象中電腦輔助設計學不到的東西，第一周上課時對Github完全無法理解，在這周反覆問了很多次才了解Github到底是什麼。在Onshape經過多次的摸索雖然Onshape在畫複雜形狀時不像Soildwork ,Catia或Inventor有很大的靈活運用間，不過在選擇功能的部分單純很多。
+
+</t>
+<t tx="leo.20181108180505.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108180505.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180505.3"># week 1
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108180505.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180505.5"># week 1-2
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/xRGnTeXiXeg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181108180505.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -552,10 +485,260 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20181102112657.7"># week 1-3
+<t tx="leo.20181108180505.7"># week 1-3
 
 ### 虎科大機械設計工程系
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OVkeoYGrrHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181108180521.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108180521.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180521.3"># week 3
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/P0IrU9WVuPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108180533.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108180533.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180533.3"># week 4
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108180537.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108180537.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108180537.7"># week 5
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/4ICuXsXtda0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20181108180542.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108180542.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180542.3"># week 6
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108180553.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108180553.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180553.3"># week 7
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108180559.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108180559.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180559.3"># week 8
+
+### 虎科大機械設計工程系
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/90StcmKEwDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20181108180614.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108180614.2"># 心得
+
+### 虎科大機械設計工程系
+這堂課給我的第一印象打破了我對電腦輔助設計就是在畫圖在座應力分析的印象，在課程裡學習到除了製圖軟體外，更增加了許多電腦的知識。另外覺得Onshape類似Fushion360，在過去覺得Fushion360是一套好適合新手的軟體，相信Onshape也是一套方便好上手的機械設計軟體。
+</t>
+<t tx="leo.20181108180918.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180918.2"># 心得
+
+### 虎科大機械設計工程系
+在過去高職所學的軟體是橫跨汽車與航太業的CATIA，CATIA在高職中也是少數學校有在使用的軟體，Cad/Cam整合再一起與誇張的自由曲面能辦到一般軟體辦不到的事，介面與Catia非常不一樣，對於功能的使用與拘束的條件不太相似，像是在作螺絲起子時Catia能直接在立體空間內直接移動雲行線，Onshape的介面與Fushion360 類似，對於往後的使用Onshape還是要再段時間的習慣。
+
+</t>
+<t tx="leo.20181108180937.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180937.2"># 心得
+
+### 虎科大機械設計工程系
+學到了很多印象中電腦輔助設計學不到的東西，第一周上課時對Github完全無法理解，在這周反覆問了很多次才了解Github到底是什麼。在Onshape經過多次的摸索雖然Onshape在畫複雜形狀時不像Soildwork ,Catia或Inventor有很大的靈活運用間，不過在選擇功能的部分單純很多。
+
+</t>
+<t tx="leo.20181108180946.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180946.2"># 心得
+
+### 虎科大機械設計工程系
+經過反覆的練習後終於比較習慣快捷鍵的功能了，以往用軟體因為功能太多導致快捷鍵都需要CTRL+或SHIFT+，所以都不習慣用快捷鍵，不過在Onshape中用的倒是覺得蠻方便的，但至於像是建立草圖要Shift+s這種的還是用滑鼠點比較習慣。
+
+</t>
+<t tx="leo.20181108180951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180951.2"># 心得
+
+### 虎科大機械設計工程系
+學到了很多印象中電腦輔助設計學不到的東西，第一周上課時對Github完全無法理解，在這周反覆問了很多次才了解Github到底是什麼。在Onshape經過多次的摸索雖然Onshape在畫複雜形狀時不像Soildwork ,Catia或Inventor有很大的靈活運用間，不過在選擇功能的部分單純很多。
+
+</t>
+<t tx="leo.20181108180956.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180956.2"># 心得
+
+### 虎科大機械設計工程系
+學到了很多印象中電腦輔助設計學不到的東西，第一周上課時對Github完全無法理解，在這周反覆問了很多次才了解Github到底是什麼。在Onshape經過多次的摸索雖然Onshape在畫複雜形狀時不像Soildwork ,Catia或Inventor有很大的靈活運用間，不過在選擇功能的部分單純很多。
+
+</t>
+<t tx="leo.20181108180959.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108180959.2"># 心得
+
+### 虎科大機械設計工程系
+學到了很多印象中電腦輔助設計學不到的東西，第一周上課時對Github完全無法理解，在這周反覆問了很多次才了解Github到底是什麼。在Onshape經過多次的摸索雖然Onshape在畫複雜形狀時不像Soildwork ,Catia或Inventor有很大的靈活運用間，不過在選擇功能的部分單純很多。
+
 </t>
 </tnodes>
 </leo_file>
